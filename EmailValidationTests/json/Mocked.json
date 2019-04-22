@@ -1,0 +1,15 @@
+{
+    "result":"undeliverable",
+    "reason":"rejected_email",
+    "role":false,
+    "free":false,
+    "disposable":false,
+    "accept_all":false,
+    "did_you_mean":"bill.test@gmail.com",
+    "sendex":0.23,
+    "email":"bill.test@gamil.com",
+    "user":"bill.test",
+    "domain":"gamil.com",
+    "success":true,
+    "message":null
+}
